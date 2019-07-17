@@ -99,6 +99,7 @@ module.exports = function(
     build: 'react-scripts build',
     test: 'react-scripts test',
     eject: 'react-scripts eject',
+    watch: 'react-scripts watch'
   };
 
   // Setup the eslint config
